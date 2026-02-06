@@ -1,0 +1,21 @@
+[project]
+name = "pyv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "mlxtend>=0.24.0",
+    "networkx>=3.6.1",
+    "numpy>=2.4.2",
+    "pandas>=3.0.0",
+    "seaborn>=0.13.2",
+    "streamlit>=1.42.0",
+    "scikit-learn>=1.6.1",
+]
+
+[[tool.uv.index]]
+name = "tuna"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+default = true
