@@ -1,4 +1,4 @@
-from pyv import CONFIG, EngineeringEngine, generate_engineering_data
+from medguider import CONFIG, EngineeringEngine, generate_engineering_data
 
 def main():
     print("=== 老年陪诊推荐系统 v0.3 (CLI 运行版) ===")

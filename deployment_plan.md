@@ -15,7 +15,7 @@
 
 ## 2. 预想项目结构
 ```text
-pyV/
+medguider/
 ├── app_streamlit.py       # Streamlit 应用主程序 (入口)
 ├── backend_api.py         # (可选) FastAPI 后端接口
 ├── mainflow/

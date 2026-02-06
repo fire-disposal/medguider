@@ -1,4 +1,4 @@
-# 老年陪诊推荐系统 (pyV)
+# 老年陪诊推荐系统 (medguider)
 
 基于多维度画像建模的老年陪诊员推荐算法实验项目。
 
@@ -17,7 +17,7 @@ uv run python main.py
 ```
 
 ## 📂 项目结构
-- [src/pyv/](src/pyv/): 核心算法包 (Models, Engine, Config)
+- [src/medguider/](src/medguider/): 核心算法包 (Models, Engine, Config)
 - [app.py](app.py): Streamlit 交互化前端应用
 - [mainflow/](mainflow/): 历史脚本与模拟流程
 - [.github/workflows/](.github/workflows/): CI 配置文件
